@@ -1,4 +1,3 @@
-import random
 import island_generator
 
 class IslandFinder(island_generator.Island):

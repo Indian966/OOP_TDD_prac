@@ -1,5 +1,5 @@
 import unittest
-import island_finder, island_generator
+from source import island_generator
 
 
 class TestGenerateMap(unittest.TestCase):
