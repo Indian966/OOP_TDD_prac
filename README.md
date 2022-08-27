@@ -1,7 +1,7 @@
 # zamface_preinterview
 
 ## 1. 코딩은 언제 시작 하셨는지요?
-코딩은 대학교에 입학하면서 시작했습니다.
+코딩은 대학에 입학하면서 처음 접했습니다.
  
 ## 2. Github등에 가장 지원자님의 설계와 구조, 코드를 파악할수 있는 프로젝트가 있는지요? (개인코드면 더 좋습니다.)
 https://github.com/Indian966/Django_recruting_developer 
